@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='REAL_MENU_OPTION_APP'
